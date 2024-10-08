@@ -1,0 +1,5 @@
+requests
+python-telegram
+selenium
+python-dotenv==0.15.0
+telebot
